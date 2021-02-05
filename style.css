@@ -1,0 +1,19 @@
+body{
+	background-color: #82ccdd;
+
+}
+.content{
+	padding: 3%;
+}
+.red{
+	background-color: #1dd1a1;
+	padding: 4%;
+}
+.blue{
+	background-color: #ff9f43;
+	padding: 2%;
+}
+.w{
+	background-color: whitesmoke;
+	color: black;
+}
